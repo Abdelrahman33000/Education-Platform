@@ -62,7 +62,7 @@ const Footer = () => {
 <Link to={"/"}>
             <img
               className="logo"
-              src="/src/assets/logo.png"
+              src="/logo.png"
               style={{
                 boxShadow: "3px 3px 5px #e0ab0f , -3px -3px 5px #f0790b ",
               }}
@@ -90,38 +90,38 @@ const Footer = () => {
   <div className="slide">
               <img
                 className="logo"
-                src="/src/assets/img6.jpeg"
+                src="/img6.jpeg"
                 width={150}
                 height={60}
                 alt=""
               />
                  <img
                 className="logo"
-                src="/src/assets/img5.png"
+                src="/img5.png"
                 width={150}
                 height={60}
                 alt=""
               />    <img
               className="logo"
-              src="/src/assets/img4.jpg"
+              src="/img4.jpg"
               width={150}
               height={60}
               alt=""
             />    <img
             className="logo"
-            src="/src/assets/img3.png"
+            src="/img3.png"
             width={150}
             height={60}
             alt=""
           />    <img
           className="logo"
-          src="/src/assets/img2.jpg"
+          src="/img2.jpg"
           width={150}
           height={60}
           alt=""
         />    <img
         className="logo"
-        src="/src/assets/img1.png"
+        src="/img1.png"
         width={150}
         height={60}
         alt=""
@@ -132,38 +132,38 @@ const Footer = () => {
   <div className="slide">
               <img
                 className="logo"
-                src="/src/assets/img6.jpeg"
+                src="/img6.jpeg"
                 width={150}
                 height={60}
                 alt=""
               />
                  <img
                 className="logo"
-                src="/src/assets/img5.png"
+                src="/img5.png"
                 width={150}
                 height={60}
                 alt=""
               />    <img
               className="logo"
-              src="/src/assets/img4.jpg"
+              src="/img4.jpg"
               width={150}
               height={60}
               alt=""
             />    <img
             className="logo"
-            src="/src/assets/img3.png"
+            src="/img3.png"
             width={150}
             height={60}
             alt=""
           />    <img
           className="logo"
-          src="/src/assets/img2.jpg"
+          src="/img2.jpg"
           width={150}
           height={60}
           alt=""
         />    <img
         className="logo"
-        src="/src/assets/img1.png"
+        src="/img1.png"
         width={150}
         height={60}
         alt=""

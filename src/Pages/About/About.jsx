@@ -27,7 +27,7 @@ const About = () => {
 
 <div className=" row d-flex mx-auto  my-5 p-2 rounded-5 justify-content-between" style={{backgroundColor:"#cac8c8"}}>
 <div className="col-lg-5">
-    <img src="/src/assets/learning.jpg" className="rounded-5 " alt="" width={"100%"}  />
+    <img src="/learning.jpg" className="rounded-5 " alt="" width={"100%"}  />
 </div>
 <div className="col-lg-5"  >
     <h2>Our Vision</h2>

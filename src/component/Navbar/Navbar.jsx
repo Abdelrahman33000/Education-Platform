@@ -65,7 +65,7 @@ const Navbar = () => {
           <Link to={"/"}>
             <img
               className="logo"
-              src="/src/assets/logo.png"
+              src="/logo.png"
               style={{
                 boxShadow: "3px 3px 5px #e0ab0f , -3px -3px 5px #f0790b ",
               }}

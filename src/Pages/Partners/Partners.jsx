@@ -7,38 +7,38 @@ const Partners = () => {
   <div className="slide">
               <img
                 className="logo"
-                src="/src/assets/img6.jpeg"
+                src="/img6.jpeg"
                 width={150}
                 height={60}
                 alt=""
               />
                  <img
                 className="logo"
-                src="/src/assets/img5.png"
+                src="/img5.png"
                 width={150}
                 height={60}
                 alt=""
               />    <img
               className="logo"
-              src="/src/assets/img4.jpg"
+              src="/img4.jpg"
               width={150}
               height={60}
               alt=""
             />    <img
             className="logo"
-            src="/src/assets/img3.png"
+            src="/img3.png"
             width={150}
             height={60}
             alt=""
           />    <img
           className="logo"
-          src="/src/assets/img2.jpg"
+          src="/img2.jpg"
           width={150}
           height={60}
           alt=""
         />    <img
         className="logo"
-        src="/src/assets/img1.png"
+        src="/img1.png"
         width={150}
         height={60}
         alt=""
@@ -48,38 +48,38 @@ const Partners = () => {
   <div className="slide">
               <img
                 className="logo"
-                src="/src/assets/img6.jpeg"
+                src="/img6.jpeg"
                 width={150}
                 height={60}
                 alt=""
               />
                  <img
                 className="logo"
-                src="/src/assets/img5.png"
+                src="/img5.png"
                 width={150}
                 height={60}
                 alt=""
               />    <img
               className="logo"
-              src="/src/assets/img4.jpg"
+              src="/img4.jpg"
               width={150}
               height={60}
               alt=""
             />    <img
             className="logo"
-            src="/src/assets/img3.png"
+            src="/img3.png"
             width={150}
             height={60}
             alt=""
           />    <img
           className="logo"
-          src="/src/assets/img2.jpg"
+          src="/img2.jpg"
           width={150}
           height={60}
           alt=""
         />    <img
         className="logo"
-        src="/src/assets/img1.png"
+        src="/img1.png"
         width={150}
         height={60}
         alt=""
@@ -90,7 +90,7 @@ const Partners = () => {
 
     <div className="row container">
       <div className="col-lg-5 ">
-        <img src="/src/assets/imgn.jpeg" alt="" width={"100%"} />
+        <img src="/imgn.jpeg" alt="" width={"100%"} />
       </div>
       <div className="col-lg-5 mx-auto my-5">
           <p style={{fontSize:"30px" , color:"red"}}> Investors & Partners </p>
