@@ -24,7 +24,7 @@ const Home = () => {
 </div>
 
 <div className="col-lg-6 d-flex justify-content-end mx-auto my-3" >
-<img src="/src/assets/learn1.webp" alt="" style={{width:"100%"}} />
+<img src="/learn1.webp" alt="" style={{width:"100%"}} />
 </div>
   </section>
 
@@ -34,7 +34,7 @@ const Home = () => {
 
 <section className="my-3 row  justify-content-between">
 <div className="col-lg-4">
-<img src="/src/assets/abdo.png" alt="" width={"100%"}  className="mx-auto"/>
+<img src="/abdo.png" alt="" width={"100%"}  className="mx-auto"/>
 </div>
 <div className="col-lg-5 ">
     <p className="py-5 opacity-50"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique repellendus deserunt molestiae debitis delectus exercitationem optio cupiditate? Corrupti, et veniam veritatis nihil vero exercitationem, odit dignissimos porro quidem quae suscipit.</p>
