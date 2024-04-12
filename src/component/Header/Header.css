@@ -1,0 +1,30 @@
+.header{
+  background-image: url(/src/assets/pic.jpg) ;
+  min-height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  
+  
+}
+
+p.title::before{
+  content: "";
+  width: 70px;
+  height: 5px;
+  background-color: rgb(226, 39, 18);
+  position: absolute;
+  top: 33%;
+  left: 40%;
+}
+
+p.title::after{
+  content: "";
+  width: 70px;
+  height: 5px;
+  background-color: rgb(11, 255, 255);
+  position: absolute;
+  top: 33%;
+  right:  40%;
+}
